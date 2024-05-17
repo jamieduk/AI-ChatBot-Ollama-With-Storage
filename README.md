@@ -5,6 +5,7 @@ This AI Bot is designed to answer user questions using the Ollama local language
 
 # YT
 # https://youtu.be/gMf8uxJTx5k
+# <iframe width="560" height="315" src="https://www.youtube.com/embed/gMf8uxJTx5k?si=1LwaO4WCcVIIozJd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Setup
 
