@@ -1,0 +1,4 @@
+Q: what is 2 plus 5
+A: Answer: As a helpful AI assistant, I can answer simple arithmetic questions. In this case, the sum of 2 and 5 is 7.
+Q: 2 plus 22
+A: Answer: 24

@@ -1,0 +1,20 @@
+
+
+venv
+
+pip install -r requirements.txt
+
+sudo apt install -y jupyter
+
+jupyter nbconvert --to script chatbot.ipynb
+
+
+https://github.com/jamieduk/AI-ChatBot-Ollama-With-Storage
+
+
+git clone https://github.com/jamieduk/AI-ChatBot-Ollama-With-Storage.git
+
+
+
+
+

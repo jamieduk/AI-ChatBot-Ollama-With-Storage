@@ -1,9 +1,11 @@
 # AI-ChatBot-Ollama-With-Storage
-
+# https://github.com/jamieduk/AI-ChatBot-Ollama-With-Storage
 ## Introduction
 This AI Bot is designed to answer user questions using the Ollama local language model. It checks if the question has been asked before and retrieves the answer if available in the data file. Otherwise, it invokes the Ollama model to provide an answer and stores it for future use.
 
 ## Setup
+
+# git clone https://github.com/jamieduk/AI-ChatBot-Ollama-With-Storage.git
 
 ### Windows
 
@@ -56,3 +58,12 @@ This AI Bot is designed to answer user questions using the Ollama local language
 ## Notes
 - Ensure proper configuration of environment variables and the Ollama model in `.env`.
 - Customize error handling and logging as per requirements.
+
+
+
+
+
+
+
+
+

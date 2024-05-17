@@ -1,0 +1,1 @@
+[Document(page_content="Dolphin: The answer to your question, 'What is 2 plus 2' is 4.", metadata={'source': 'output.txt'})]
